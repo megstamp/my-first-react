@@ -9,3 +9,7 @@ return (
     </>
     )
 }
+
+
+// +1 in line 8 is what is on the button. it's what the button says.
+//line 4 we set count = to 0
